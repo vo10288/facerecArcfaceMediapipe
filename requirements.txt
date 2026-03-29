@@ -1,0 +1,6 @@
+numpy==1.26.4
+mediapipe==0.10.21
+opencv-python==4.13.0.92
+insightface==0.7.3
+onnxruntime==1.23.2
+pillow==12.1.1

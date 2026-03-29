@@ -1,0 +1,29 @@
+
+     active environment : py3.11
+    active env location : /Users/antonio/opt/anaconda3/envs/py3.11
+            shell level : 1
+       user config file : /Users/antonio/.condarc
+ populated config files : 
+          conda version : 4.14.0
+    conda-build version : 3.20.5
+         python version : 3.8.5.final.0
+       virtual packages : __osx=26.3=0
+                          __unix=0=0
+                          __archspec=1=x86_64
+       base environment : /Users/antonio/opt/anaconda3  (writable)
+      conda av data dir : /Users/antonio/opt/anaconda3/etc/conda
+  conda av metadata url : None
+           channel URLs : https://repo.anaconda.com/pkgs/main/osx-64
+                          https://repo.anaconda.com/pkgs/main/noarch
+                          https://repo.anaconda.com/pkgs/r/osx-64
+                          https://repo.anaconda.com/pkgs/r/noarch
+          package cache : /Users/antonio/opt/anaconda3/pkgs
+                          /Users/antonio/.conda/pkgs
+       envs directories : /Users/antonio/opt/anaconda3/envs
+                          /Users/antonio/.conda/envs
+               platform : osx-64
+             user-agent : conda/4.14.0 requests/2.24.0 CPython/3.8.5 Darwin/25.3.0 OSX/26.3
+                UID:GID : 501:20
+             netrc file : None
+           offline mode : False
+
