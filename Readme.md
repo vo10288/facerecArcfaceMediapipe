@@ -34,7 +34,7 @@ This is the recommended setup because `insightface` is more reliable on **conda-
 conda create -n face311 python=3.11 -y
 conda activate face311
 
-conda install -c conda-forge insightface -y
+ANCHE NO !conda install -c conda-forge insightface -y
 
 python -m pip install --upgrade pip setuptools wheel
 pip install -r requirements.txt
@@ -44,7 +44,7 @@ mediapipe==0.10.21
 onnxruntime==1.23.2
 pillow==12.1.1
 simsimd
-
+insightface
 
 
 ---
